@@ -69,7 +69,7 @@
 | Vorlesung |  Übung | Thema 
 | ------------- | ------------- | ------------- | 
 | Di, 09.01.24 | Mi 10.01.24 | 10. PCFGs und probabilistisches Parsing | 
-| Di, 16.01.24 | Mi 17.01.24 | 11. Grammatikinduktion | 
+| Di, 16.01.24 | Mi 17.01.24 | 11. Grammatikinduktion + *Probeklausur* | 
 | Di, 23.01.24 | Mi 24.01.24 | 12. Partielles Parsing | 
 | Di, 30.01.24 | Mi 31.01.24 | 13. Komplexität | 
 
