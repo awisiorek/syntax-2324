@@ -42,7 +42,7 @@
 | Vorlesung |  Übung | Thema 
 | ------------- | ------------- | ------------- | 
 | Di, 24.10.23 | Mi 25.10.23 | 2. Phrasenstrukturgrammatik | 
-| Di, 31.10.23 | - (Feiertag) | *2b. Wortstellung* | 
+| Di, 31.10.23 | - (Feiertag) | 2b. Wortstellung | 
 | Di, 07.11.23 | Mi 08.11.23 | 3. X-Bar-Struktur und Ambiguität | 
 | Di, 14.11.23 | Mi 15.11.23 | 4. CFG-Parsing | 
 
