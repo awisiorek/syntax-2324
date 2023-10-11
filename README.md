@@ -10,9 +10,9 @@
 
 ## Termine:
 
-- Vorlesung: Di 10:15-11:45, L155
-- Übung: Mi 14:15-15:45, L155
-- Tutorium: Fr 10:15-11:45, Raum folgt
+- Vorlesung: Di 10:15-11:45, Oettingenstr. 67 / L155
+- Übung: Mi 14:15-15:45, Oettingenstr. 67 / L155
+- Tutorium: Fr 10:15-11:45, Theresienstr. 39 / B 045
 
 ***Die Veranstaltung finden in Präsenz mit Zoom-Übertragung statt (hybrid). Der Zoom-Link wird per LSF-Rundmail und in Moodle mitgeteilt.***
 
