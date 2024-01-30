@@ -7,6 +7,8 @@
 
 ## Aktuelles:
 
+#### Notebooks im nbviewer: https://nbviewer.org/github/awisiorek/syntax-2324
+
 
 ## Termine:
 
